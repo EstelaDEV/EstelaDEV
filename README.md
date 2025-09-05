@@ -21,8 +21,8 @@ Atualmente focada em desenvolvimento ABAP, Power BI e automações/RPA's em Pyth
 
 <img 
     align="left" 
-    alt="SAP Script"
-    title="SAP Script" 
+    alt="SAP Scripting"
+    title="SAP Scripting" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://img.icons8.com/?size=100&id=69485&format=png&color=000000" 
