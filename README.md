@@ -1,5 +1,5 @@
 # 👩🏻‍💻 Estela Luiza
-**`Desenvolvedora ABAP`**
+**`Desenvolvedora`**
 
 Cursando o último período de Análise e Desenvolvimento de Sistemas pela UNA, tenho 22 anos e sou apaixonada por criar soluções robustas. 
 Sou extremamente motivada e em constante desenvolvimento de minhas habilidades e crescimento profissional.
