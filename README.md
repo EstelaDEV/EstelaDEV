@@ -1,9 +1,9 @@
 # 👩🏻‍💻 Estela Luiza
 **`Desenvolvedora ABAP`**
 
-Formada em Análise e Desenvolvimento de Sistemas pela UNA, tenho 22 anos e sou apaixonada por criar soluções robustas. 
+Cursando o último período de Análise e Desenvolvimento de Sistemas pela UNA, tenho 22 anos e sou apaixonada por criar soluções robustas. 
 Sou extremamente motivada e em constante desenvolvimento de minhas habilidades e crescimento profissional.
-Atualmente focada em desenvolvimento ABAP.
+Atualmente focada em desenvolvimento ABAP e automações/RPA's em Python e C#.
 
 
 ---
